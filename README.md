@@ -61,9 +61,6 @@ Import sql/create_tables.sql into your MySQL server.
 Update DB credentials in your Java Servlet code.
 Deploy to Tomcat using your IDE or XAMPP.
 
-Open in browser:
-http://localhost:8080/autofix/
-
 📈 Future Enhancements
 Admin dashboard
 
